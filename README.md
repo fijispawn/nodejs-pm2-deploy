@@ -2,4 +2,4 @@
 
 **IP-адрес:** 51.250.34.72  
 **Frontend:** https://mestechko.nomorepartiessbs.ru  
-**Backend:** https://mestechko.nomorepartiessbs.ru/api
+**Backend:** https://api.mestechko.nomorepartiessbs.ru
